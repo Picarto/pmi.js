@@ -1,0 +1,22 @@
+{
+  "name": "pmi.js",
+  "version": "1.0.1",
+  "description": "Picarto Message Inteface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@Picarto",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Picarto/pmi.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Picarto/pmi.js/issues"
+  },
+  "homepage": "https://github.com/Picarto/pmi.js#readme",
+  "dependencies": {
+    "ws": "^7.3.1"
+  }
+}

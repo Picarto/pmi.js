@@ -1,6 +1,6 @@
 {
   "name": "pmi.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Picarto Message Inteface",
   "main": "index.js",
   "scripts": {
